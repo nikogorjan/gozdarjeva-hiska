@@ -1,17 +1,24 @@
-# Use an official NGINX image as a base
-FROM nginx:alpine
+# ---- STEP 1: Build the React App ----
+    FROM node:18 AS build
 
-# Set the working directory
-WORKDIR /app
-
-# Copy the built files from the Vite build process
-COPY dist /usr/share/nginx/html
-
-# Copy a basic NGINX configuration
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-
-# Expose port 80 for HTTP traffic
-EXPOSE 80
-
-# Start NGINX
-CMD ["nginx", "-g", "daemon off;"]
+    WORKDIR /app
+    
+    # Copy package.json and package-lock.json (if available) and install dependencies
+    COPY package.json package-lock.json ./
+    RUN npm install
+    
+    # Copy all project files and build the React app
+    COPY . .
+    RUN npm run build
+    
+    # ---- STEP 2: Serve with NGINX ----
+    FROM nginx:alpine
+    
+    # Copy built React files from the previous stage
+    COPY --from=build /app/dist /usr/share/nginx/html
+    
+    # Expose port 80
+    EXPOSE 80
+    
+    # Start NGINX
+    CMD ["nginx", "-g", "daemon off;"]
