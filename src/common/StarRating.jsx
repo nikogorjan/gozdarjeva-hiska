@@ -3,10 +3,10 @@ import { starRatings } from '../data/CommonData/CommonData';
 
 const StarRating = () => {
 
-    const [unabledIndex, setUnabledIndex] = useState(2); 
+    const [unabledIndex, setUnabledIndex] = useState(5); 
 
     useEffect(() => {
-        const randomIndex = Math.floor(Math.random() * 5) + 1;
+        const randomIndex = 5;
         setUnabledIndex(randomIndex);
         // console.log(Math.random());
     }, []);

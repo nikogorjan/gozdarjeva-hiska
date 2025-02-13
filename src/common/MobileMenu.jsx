@@ -30,14 +30,7 @@ const MobileMenu = () => {
                         {/* Nav Menu */}
                         <NavMenu navMenusClass="nav-menu--mobile" />
 
-                        {/* Header Button */}
-                        <Button
-                            btnLink="/property" 
-                            btnClass="btn-outline-light d-lg-none d-block mt-4" 
-                            btnText="Learn More" 
-                            spanClass="icon-right text-gradient" 
-                            iconClass="fas fa-arrow-right" 
-                        />
+                       
                         
                     </div>
                 </div>

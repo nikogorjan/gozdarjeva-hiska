@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-
+import '../../public/assets/css/slider.css'
 const MarqueeSlider = () => {
 
     const sliderRef = useRef(null);
@@ -28,27 +28,27 @@ const MarqueeSlider = () => {
             <div ref={sliderRef} className="service-slider d-flex flex-shrink-0">
                 <div className="service-slider__item flex-shrink-0 d-flex align-items-center gap-3">
                     <span className="service-slider__icon">
-                        <img src="assets/images/icons/service-slider-icon1.svg" alt="" />
+                        <img src="assets/images/my-images/hiking.svg" alt="" className="slider-icon"/>
                     </span>
-                    <h2 className="service-slider__text mb-0 fw-semibold">Infinite Insight Realty</h2>
+                    <h2 className="service-slider__text mb-0 fw-semibold">Aktivna rekreacija</h2>
                 </div>
                 <div className="service-slider__item flex-shrink-0 d-flex align-items-center gap-3">
                     <span className="service-slider__icon">
-                        <img src="assets/images/icons/service-slider-icon2.svg" alt="" />
+                        <img src="assets/images/my-images/bed.svg" alt="" className="slider-icon"/>
                     </span>
-                    <h2 className="service-slider__text mb-0 fw-semibold">Elite Scape</h2>
+                    <h2 className="service-slider__text mb-0 fw-semibold">Sprostitev in počitek</h2>
                 </div>
                 <div className="service-slider__item flex-shrink-0 d-flex align-items-center gap-3">
                     <span className="service-slider__icon">
-                        <img src="assets/images/icons/service-slider-icon3.svg" alt="" />
+                        <img src="assets/images/my-images/utensils.svg" alt="" className="slider-icon"/>
                     </span>
-                    <h2 className="service-slider__text mb-0 fw-semibold">Capital Crest Estates</h2>
+                    <h2 className="service-slider__text mb-0 fw-semibold">Prekmurska kulinarika</h2>
                 </div>
                 <div className="service-slider__item flex-shrink-0 d-flex align-items-center gap-3">
                     <span className="service-slider__icon">
-                        <img src="assets/images/icons/service-slider-icon4.svg" alt="" />
+                        <img src="assets/images/my-images/location-marker.svg" alt="" className="slider-icon"/>
                     </span>
-                    <h2 className="service-slider__text mb-0 fw-semibold">Property Consultants</h2>
+                    <h2 className="service-slider__text mb-0 fw-semibold">Naravne lepote</h2>
                 </div>
             </div>
         </div>

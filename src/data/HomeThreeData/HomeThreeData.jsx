@@ -116,20 +116,40 @@ export const messageThreeContents = {
 
 
 // Testimonial Three Data
-import userThumb1 from '../../../public/assets/images/thumbs/user-img1.png'; 
-import userThumb2 from '../../../public/assets/images/thumbs/user-img2.png'; 
+import userThumb1 from '../../../public/assets/images/my-images/ava-b.png'; 
+import userThumb2 from '../../../public/assets/images/my-images/ava-j.png'; 
+import userThumb3 from '../../../public/assets/images/my-images/ava-s.png'; 
+
 export const testimonialThreeContents = [
     {
         image: userThumb1,
-        name: 'Robert Fox',
-        designation: 'Prime Investments',
-        desc: 'Real estate is a lucrativ ind involves the buying selling and Real estate a is a lucrative indinvolves buyingrep pertiesen cos residentialreproperties. It encompasses residential Real estate a is a lucrative',
+        name: 'Branka',
+        designation: '',
+        desc: 'Prijazna, gostoljubna gostitelja. Mirna okolica, narava, skozi gozd lep sprehod do Bukovniskega jezera. Nobene pripombe, kljub slabemu vremenu, smo se imeli super.',
     },
     {
         image: userThumb2,
-        name: 'John Doe',
-        designation: 'Money Investments',
-        desc: 'Real estate is a lucrativ ind involves the buying selling and Real estate a is a lucrative indinvolves buyingrep pertiesen cos residentialreproperties. It encompasses residential Real estate a is a lucrative',
+        name: 'Jan',
+        designation: '',
+        desc: 'Lokacija, mir, terasa za hišo, kjer lahko otroci tečejo brez skrbi, gugalnica za otroke. Pogled iz sobe (postelje) proti vzhodu je zjutraj fantastičen.',
+    },
+    {
+        image: userThumb3,
+        name: 'Sonja',
+        designation: '',
+        desc: 'Odlična, mirna lokacija in dobro izhodišče za odkrivanje Prekmurja. Lično prenovljena in prostorna hiška z vso potrebno opremo, idealna za družine z majhnimi otroki. ',
+    },
+    {
+        image: userThumb3,
+        name: 'Sandin',
+        designation: '',
+        desc: 'Lokacija te nastanitve je preprosto čudovita – mirna in obdana z neokrnjeno prekmursko naravo. ',
+    },
+    {
+        image: userThumb1,
+        name: 'Bojan',
+        designation: '',
+        desc: 'Zelo lepa okolica in prijazen lastnik z lepo dobrodošlico.',
     },
 ]
 
@@ -167,28 +187,28 @@ export const counterThreeContents = [
 export const faqs = [
     {
         id: 1,
-        btnText: 'Your satisfaction is our top priority?',
-        bodyText: "Lorem Ipsum is simply dummy text the printing and typese Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        btnText: 'Kako rezerviram vikendico?',
+        bodyText: 'Rezervacijo lahko opravite preko booking.com spletne aplikacije ali pa nas pokličete za osebno pomoč.'
     },
     {
         id: 2,
-        btnText: 'How do I know if my company?',
-        bodyText: "Lorem Ipsum is simply dummy text the printing and typese Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        btnText: 'Ali je na voljo parkirišče?',
+        bodyText: 'Da, ob vikendici je na voljo brezplačno parkirišče za vse naše goste.'
     },
     {
         id: 3,
-        btnText: 'What kind of services do Real estate?',
-        bodyText: "Lorem Ipsum is simply dummy text the printing and typese Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        btnText: 'Ali je vikendica primerna za družine z otroki?',
+        bodyText: 'Seveda, naša vikendica je prijazna do družin, kjer so otroci vedno dobrodošli.'
     },
     {
         id: 4,
-        btnText: 'How long does a typical Real estate?',
-        bodyText: "Lorem Ipsum is simply dummy text the printing and typese Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        btnText: 'Kakšne dodatne storitve nudite?',
+        bodyText: 'Poleg udobnega bivanja nudimo tradicionalno prekmursko hrano in degustacijo vina.'
     },
     {
         id: 5,
-        btnText: 'How much does business Real estate?',
-        bodyText: "Lorem Ipsum is simply dummy text the printing and typese Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        btnText: 'Kaj je posebnost Dobrovniških vinogradov?',
+        bodyText: 'Uživali boste v edinstveni kombinaciji naravne lepote, tradicije in izvrstnih lokalnih vin.'
     }
 ]
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import AboutFourThumb from '../../public/assets/images/thumbs/about-four.png';
+import AboutFourThumb from '../../public/assets/images/my-images/h12.jpg';
 
 
 const AboutFour = () => {
@@ -10,22 +10,22 @@ const AboutFour = () => {
                     <div className="col-lg-6">
                         <div className="about-content">
                             <div className="section-heading style-left">
-                                <span className="section-heading__subtitle bg-white"> <span className="text-gradient fw-semibold">Know About Us</span> </span>
-                                <h2 className="section-heading__title">Making Your Real Estate Dreams a Reality</h2>
-                                <p className="section-heading__desc font-18">Et purus duis sollicitudin dignissim habitant. Egestas nulla quis venenatis cras sed eu massa eu faucibus Urna fusce</p>
+                                <span className="section-heading__subtitle bg-white"> <span className="text-gradient fw-semibold">Ocene gostov</span> </span>
+                                <h2 className="section-heading__title">Na booking.com nas ocenjujejo z oceno 9.9</h2>
+                                <p className="section-heading__desc font-18">Zahvaljujoč edinstveni izkušnji in pristni gostoljubnosti smo prejemniki izjemnih ocen, ki potrjujejo naš trud za vaš popoln oddih.</p>
                             </div>
                             <ul className="check-list">
                                 <li className="check-list__item d-flex align-items-center">
                                     <span className="icon"><i className="fas fa-check"></i></span>
-                                    <span className="text fw-normal text-body font-16">Prestige Property Management Your Dream</span>
+                                    <span className="text fw-normal text-body font-16">Gostoljubnost, ki presega vsa pričakovanja.</span>
                                 </li>
                                 <li className="check-list__item d-flex align-items-center">
                                     <span className="icon"><i className="fas fa-check"></i></span>
-                                    <span className="text fw-normal text-body font-16">Real Estate is a vast industry that deals </span>
+                                    <span className="text fw-normal text-body font-16">Naša hišica nudi udobje in toplino, ki jo boste občutili že ob vstopu. </span>
                                 </li>
                                 <li className="check-list__item d-flex align-items-center">
                                     <span className="icon"><i className="fas fa-check"></i></span>
-                                    <span className="text fw-normal text-body font-16">Property Management Your Dream</span>
+                                    <span className="text fw-normal text-body font-16">Združujemo tradicijo in sodobnost za edinstven oddih.</span>
                                 </li>
                             </ul>
                         </div>
@@ -36,8 +36,8 @@ const AboutFour = () => {
                                 <img src={AboutFourThumb} alt=""/>
                                 <div className="project-content">
                                     <div className="project-content__inner">
-                                        <h2 className="project-content__number text-gradient"> 10k+ </h2>
-                                        <span className="project-content__text font-12">Complete project</span>
+                                        <h2 className="project-content__number text-gradient"> 9.9 </h2>
+                                        <span className="project-content__text font-12">Ocena gostov</span>
                                     </div>
                                 </div>
                             </div>

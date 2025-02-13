@@ -5,13 +5,13 @@ import { Link } from 'react-router-dom';
 const ContactTop = () => {
     return (
         <>
-            <section className="contact-top padding-y-120">
+            <section id='kontakt' className="contact-top padding-y-120">
                 <div className="container container-two">
                     <div className="section-heading">
                         <span className="section-heading__subtitle bg-gray-100"> 
-                            <span className="text-gradient fw-semibold">Contact</span> 
+                            <span className="text-gradient fw-semibold">Kontakt</span> 
                         </span>
-                        <h2 className="section-heading__title">Contact Us!</h2>
+                        <h2 className="section-heading__title">Kontaktirajte nas!</h2>
                     </div>
                     <div className="row gy-4">
                         {

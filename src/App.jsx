@@ -65,7 +65,7 @@ function App() {
       <BrowserRouter>
         <Wrapper>
           <Routes>
-            <Route path="/" element={<HomeOne />} />
+            <Route path="/" element={<HomeFive />} />
             <Route path="/home-two" element={<HomeTwo />} />
             <Route path="/home-three" element={<HomeThree />} />
             <Route path="/home-four" element={<HomeFour />} />

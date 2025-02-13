@@ -9,7 +9,7 @@ var settings = {
     slidesToShow: 3,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 4000,
     speed: 1500,
     dots: false,
     infinite: true,
@@ -43,9 +43,9 @@ const ProjectFour = () => {
                 <div className="d-flex align-items-sm-center flex-sm-row flex-column gap-4 mb-72">
                     <SectionHeading
                         headingClass="style-left mb-0"  
-                        subtitle="Our Projects"
+                        subtitle="Parcela"
                         subtitleClass="bg-gray-100" 
-                        title="Creating Lasting Memories through Real Estate" 
+                        title="Naša parcela v živo" 
                         renderDesc={false}
                         desc=""
                         renderButton={false}
@@ -76,11 +76,7 @@ const ProjectFour = () => {
                                     <div className={`col-md-4 col-sm-6 col-xs-6`} key={projectItemIndex}>
                                         <div className="project-page-thumb">
                                             <img src={thumb} alt="" className="cover-img"/>
-                                            <div className="project-page-content">
-                                                <h6 className="project-page-content__title">
-                                                    <Link to={projectURL} state={{ id, title, thumb, desc }} className="link">{title}</Link>
-                                                </h6>
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 )

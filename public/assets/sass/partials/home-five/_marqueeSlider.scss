@@ -21,3 +21,9 @@
     animation-play-state: paused;
   }
   
+  @media (min-width: 992px) {
+    .service-slider-wrapper {
+      animation: marquee 60s linear infinite;
+      gap: 32px;
+    }
+}

@@ -6,10 +6,10 @@ import { testimonialThreeContents } from '../data/HomeThreeData/HomeThreeData';
 import TestimonialThreeItem from './items/TestimonialThreeItem';
 
 var settings = {
-    slidesToShow: 1,
+    slidesToShow: 1, 
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 4000,
     speed: 1500,
     dots: false,
     pauseOnHover: true,
@@ -23,7 +23,7 @@ const TestimonialThree = () => {
     
     return (
         <>
-        <section className="testimonials-three padding-y-120">
+        <section id='stranke' className="testimonials-three padding-y-120">
             <div className="container container-two">
                 <div className="testimonials-three__inner position-relative">
                     <div className="row align-items-center gy-4">
@@ -32,11 +32,11 @@ const TestimonialThree = () => {
 
                                 <SectionHeading
                                     headingClass="section-heading style-left mb-0"  
-                                    subtitle="clients testimonial"
+                                    subtitle="Mnenja"
                                     subtitleClass="" 
-                                    title="Your satisfaction is our top a the priority" 
+                                    title="Kaj pravijo naši gostje" 
                                     renderDesc={false}
-                                    desc="Real estate is a lucrative ind involves the buying selling and reproperties. It Real estate is a lucrative ind involves. Real estate is a lucrative"
+                                    desc="Preberite izkušnje zadovoljnih obiskovalcev in odkrijte, zakaj se vedno znova vračajo v našo vikendico."
                                     renderButton={false}
                                     renderBesideDesc={true}
                                     buttonClass="btn-main"

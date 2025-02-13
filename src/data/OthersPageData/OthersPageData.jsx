@@ -978,10 +978,10 @@ export const propertyTables = [
 
 
 // ========================= Project Page Data End =========================
-import projectItemThumb1 from '../../../public/assets/images/thumbs/project-img1.png';
-import projectItemThumb2 from '../../../public/assets/images/thumbs/project-img2.png';
-import projectItemThumb3 from '../../../public/assets/images/thumbs/project-img3.png';
-import projectItemThumb4 from '../../../public/assets/images/thumbs/project-img4.png';
+import projectItemThumb1 from '../../../public/assets/images/my-images/h13.jpg';
+import projectItemThumb2 from '../../../public/assets/images/my-images/h11.jpg';
+import projectItemThumb3 from '../../../public/assets/images/my-images/h7.jpg';
+import projectItemThumb4 from '../../../public/assets/images/my-images/h14.jpg';
 export const projectItems = [
     {
         id: 1,
@@ -1077,20 +1077,20 @@ export const contactTopInfos = [
     {
         icon: <i className="fas fa-paper-plane"></i>,
         title: 'Email',
-        textOne: 'michelle.rivera@example.com',
-        textTwo: 'cityscape@example.com',
+        textOne: 'Gozdarjeva.hisa@gmail.com',
+        textTwo: '',
         link: 'mailto:'
     },
     {
         icon: <i className="fas fa-map-marker-alt"></i>,
-        title: 'Location',
-        text: '8502 Preston Rd. Inglewood, Maine 98380',
+        title: 'Lokacija',
+        text: 'Dobrovnik 302a, Dobrovnik, Slovenia',
     },
     {
         icon: <i className="fas fa-phone"></i>,
-        title: 'Contacts ',
-        textOne: '(270) 555-0117',
-        textTwo: '(557) 284-3641 ',
+        title: 'Telefon ',
+        textOne: '031 328 584',
+        textTwo: ' ',
         link: 'tel:'
     },
 ]

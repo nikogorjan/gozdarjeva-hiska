@@ -7,7 +7,7 @@ import { ScrollHideContext } from '../contextApi/ScrollHideContext';
 import Button from './Button';
 import { Link } from 'react-router-dom';
 import LogoWhite from './LogoWhite';
-
+import '../../public/assets/css/header.css'
 const Header = (props) => {
         
     const { handleMobileMenuClick } = useContext(MobileMenuContext); 
@@ -31,10 +31,10 @@ const Header = (props) => {
             <header className={`header ${props.headerClass} ${stickyHeader ? 'fixed-header' : ''}`}>
                 <div className="container container-two">
                     <nav className="header-inner flx-between">
-
+<div className=' inner-flex'>
                         {
                             props.logoBlack && (
-                                <div className="logo">
+                                <div className="logo items-center">
                                     <Logo/>
                                 </div>
                             )
@@ -53,14 +53,14 @@ const Header = (props) => {
                             <NavMenu navMenusClass="" />
                         </div>
                         {/* Menu End  */}
-
+                        </div>
                         {/* Header Right start */}
                         <div className="header-right flx-align">
                             {
                                 props.showContactNumber && (
-                                    <Link to="#" className="contact-number text-poppins text-gray-800 fw-500 d-flex align-items-center gap-2">
+                                    <Link to="tel:031328584" className="contact-number text-poppins text-gray-800 fw-500 d-flex align-items-center gap-2">
                                         <span className="icon text-gradient font-20"><i className="fas fa-phone"></i></span>
-                                        <span className="text">(629) 555-0129</span>
+                                        <span className="text">031 328 584</span>
                                     </Link>
                                 )
                             }

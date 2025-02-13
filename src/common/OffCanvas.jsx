@@ -26,7 +26,6 @@ const OffCanvas = () => {
                     </button>
                 </div>
 
-                <SearchBox/>
 
                 <ul className="address-list mt-5">
                     {
@@ -54,7 +53,7 @@ const OffCanvas = () => {
                 </ul>
 
                 <div className="google-map mt-5">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1511.2499674845235!2d-73.99553882767792!3d40.75102778252164!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1686536419224!5m2!1sen!2sbd" loading="lazy" className="w-100 h-100"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2738.1007714890275!2d16.352517976752747!3d46.66427155257279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f37b53b489b93%3A0xdac678059e9cfe2f!2sGozdarjeva%20hi%C5%A1ka%20M%26K!5e0!3m2!1ssl!2ssi!4v1739417942143!5m2!1ssl!2ssi" loading="lazy" className="w-100 h-100"></iframe>
                 </div>
 
                 <SocialList/>

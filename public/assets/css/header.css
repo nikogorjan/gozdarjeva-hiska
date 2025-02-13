@@ -1,0 +1,11 @@
+.inner-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.items-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2rem;
+}

@@ -5,16 +5,16 @@ import FaqAccordion from '../common/FaqAccordion';
 const Faq = () => {
     return (
         <>
-            <section className="faq padding-y-120 mt-minus-120">
+            <section id='vprasanja' className="faq padding-y-120 bg-white">
                 <div className="container container-two">
                     <div className="row">
                         <div className="col-lg-6 pe-xl-5">
 
                             <SectionHeading
                                 headingClass="section-heading style-left"  
-                                subtitle="Ask question"
+                                subtitle="Pogosta vprašanja"
                                 subtitleClass="" 
-                                title="Let us find the perfect property for you" 
+                                title="Odgovori na vsa vaša vprašanja o vikendici" 
                                 renderDesc={false}
                                 desc="Real estate is a lucrative ind involves the buying selling and reproperties. It Real estate is a lucrative ind involves. Real estate is a lucrative"
                                 renderButton={false}
@@ -28,7 +28,7 @@ const Faq = () => {
                         </div>
                         <div className="col-lg-6  d-lg-block d-none">
                             <div className="faq-thumb">
-                                <img src="assets/images/thumbs/faq-img.png" alt="Image"/>
+                                <img src="assets/images/my-images/h11.jpg" alt="Image"/>
                             </div>
                         </div>
                     </div>

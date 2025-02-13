@@ -8,25 +8,25 @@ const TopHeaderFive = () => {
                     <div className="header-info flx-align">
                         <div className="header-info__item text-white flx-align">
                             <span className="header-info__icon"><i className="fas fa-map-marker-alt"></i></span>
-                            <span className="header-info__text text-white fw-light">6391 Elgin St. Celina, 10299</span>
+                            <span className="header-info__text text-white fw-light">Dobrovnik 302a, 9223 Dobrovnik</span>
                         </div>
                         <div className="header-info__item text-white flx-align">
                             <span className="header-info__icon"><i className="fas fa-envelope"></i></span>
-                            <a href="mailto:" className="header-info__text text-white fw-light">info@example.com</a>
+                            <a href="mailto:" className="header-info__text text-white fw-light">Gozdarjeva.hisa@gmail.com</a>
                         </div>
                     </div>
                     <ul className="social-icon-list flx-align gap-2">
                         <li className="social-icon-list__item">
-                            <a href="https://www.facebook.com" className="social-icon-list__link"><i className="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61573024438326" className="social-icon-list__link"><i className="fab fa-facebook-f"></i></a>
                         </li>
-                        <li className="social-icon-list__item">
+                        {/*<li className="social-icon-list__item">
                             <a href="https://www.twitter.com" className="social-icon-list__link"><i className="fab fa-twitter"></i></a>
                         </li>
                         <li className="social-icon-list__item">
                             <a href="https://www.linkedin.com" className="social-icon-list__link"><i className="fab fa-linkedin-in"></i></a>
-                        </li>
+                        </li>*/}
                         <li className="social-icon-list__item">
-                            <a href="https://www.pinterest.com" className="social-icon-list__link"><i className="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/gozdarjeva_hiska/" className="social-icon-list__link"><i className="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>

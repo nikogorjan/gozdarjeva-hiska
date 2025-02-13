@@ -15,7 +15,7 @@ const FooterFive = () => {
                 <div className="container container-two">
 
                     {/* NewsletterFooter */}
-                    <NewsletterFooter/>
+                    {/*<NewsletterFooter/>*/}
                     
                     <div className="row gy-5">
                         <div className="col-xl-3 col-sm-6 col-xsm-6">
@@ -33,7 +33,7 @@ const FooterFive = () => {
                         </div>
                         <div className="col-xl-3 col-sm-6 col-xsm-6">
                             <div className="footer-item">
-                                <h6 className="footer-item__title">Our gallery</h6>
+                                <h6 className="footer-item__title">Galerija</h6>
                                 <div className="gallery-list">
                                     {
                                         footerGallery.map((gallery, GalleryIndex) => {
