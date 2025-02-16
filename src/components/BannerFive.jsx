@@ -30,7 +30,7 @@ const BannerFive = () => {
 
   <div className="col-lg-6 order-1 order-lg-2">
     <div className="banner-five__thumb">
-      <img src="assets/images/my-images/h18.jpg" alt=""/>
+      <img src="assets/images/my-images/h33.png" alt=""/>
     </div>
   </div>
 </div>
