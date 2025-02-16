@@ -21,7 +21,7 @@ const GalleryFive = () => {
                     </div>
                     <div className="col-lg-8 col-sm-7 col-xs-6">
                         <div className="gallery-thumb">
-                            <img src="assets/images/my-images/h2.jpg" alt="" className="cover-img"/>
+                            <img src="assets/images/my-images/h0.jpg" alt="" className="cover-img"/>
                            
                         </div>
                     </div>

@@ -978,10 +978,16 @@ export const propertyTables = [
 
 
 // ========================= Project Page Data End =========================
-import projectItemThumb1 from '../../../public/assets/images/my-images/h13.jpg';
-import projectItemThumb2 from '../../../public/assets/images/my-images/h11.jpg';
-import projectItemThumb3 from '../../../public/assets/images/my-images/h7.jpg';
-import projectItemThumb4 from '../../../public/assets/images/my-images/h14.jpg';
+import projectItemThumb1 from '../../../public/assets/images/my-images/h17.jpg';
+import projectItemThumb2 from '../../../public/assets/images/my-images/h19.jpg';
+import projectItemThumb3 from '../../../public/assets/images/my-images/h20.jpg';
+import projectItemThumb4 from '../../../public/assets/images/my-images/h21.jpg';
+import projectItemThumb5 from '../../../public/assets/images/my-images/h22.jpg';
+import projectItemThumb6 from '../../../public/assets/images/my-images/h23.jpg';
+import projectItemThumb7 from '../../../public/assets/images/my-images/h24.jpg';
+import projectItemThumb8 from '../../../public/assets/images/my-images/h25.jpg';
+import projectItemThumb9 from '../../../public/assets/images/my-images/h26.jpg';
+
 export const projectItems = [
     {
         id: 1,
@@ -1009,28 +1015,36 @@ export const projectItems = [
     },
     {
         id: 5,
-        thumb: projectItemThumb1,
+        thumb: projectItemThumb5,
         title: 'Building Trust, One Home at a Tim',
         desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
     },
     {
         id: 6,
-        thumb: projectItemThumb2,
+        thumb: projectItemThumb6,
         title: 'Brick by Brick Your Dream Home Awaits',
         desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
     },
     {
         id: 7,
-        thumb: projectItemThumb3,
+        thumb: projectItemThumb7,
         title: 'Guiding You Home with Experienc',
         desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
     },
     {
         id: 8,
-        thumb: projectItemThumb4,
+        thumb: projectItemThumb8,
         title: 'A Tradition of Trust in Real Estate',
         desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
     },
+    {
+        id: 9,
+        thumb: projectItemThumb9,
+        title: 'A Tradition of Trust in Real Estate',
+        desc: 'Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorr viverra laoreet Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuebortis non, viverraAliquam eros justo, posuere loborti viverra laoreet matti ulamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorpe',
+    },
+
+
 ]
 
 export const challengeLists = [
