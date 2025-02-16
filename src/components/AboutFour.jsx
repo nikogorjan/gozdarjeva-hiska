@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
-import AboutFourThumb from '../../public/assets/images/my-images/h12.jpg';
+import AboutFourThumb from '../../public/assets/images/my-images/h32.jpg';
 
 const AboutFour = () => {
     const { t } = useTranslation();
