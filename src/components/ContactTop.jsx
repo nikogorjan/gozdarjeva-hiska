@@ -18,7 +18,7 @@ export const contactTopInfos = [
     {
         icon: <i className="fas fa-phone"></i>,
         title: 'contactTop.phone', // translation key
-        textOne: '031 328 584',
+        textOne: '(00386) 31 328 584',
         textTwo: '',
         link: 'tel:'
     },
