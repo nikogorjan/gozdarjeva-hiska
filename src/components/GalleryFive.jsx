@@ -15,7 +15,7 @@ const GalleryFive = () => {
                 <div className="row gy-4">
                     <div className="col-lg-4 col-sm-5 col-xs-6">
                         <div className="gallery-thumb">
-                            <img src="assets/images/my-images/h1.jpg" alt="" className="cover-img"/>
+                            <img src="assets/images/my-images/h29.jpg" alt="" className="cover-img"/>
                            
                         </div>
                     </div>
@@ -33,7 +33,7 @@ const GalleryFive = () => {
                     </div>
                     <div className="col-lg-4 col-sm-5 col-xs-6">
                         <div className="gallery-thumb">
-                            <img src="assets/images/my-images/h4.jpg" alt="" className="cover-img"/>
+                            <img src="assets/images/my-images/h30.jpg" alt="" className="cover-img"/>
                             
                         </div>
                     </div>

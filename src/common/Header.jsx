@@ -32,7 +32,7 @@ const Header = (props) => {
             <header className={`header ${props.headerClass} ${stickyHeader ? 'fixed-header' : ''}`}>
                 <div className="container container-two">
                     <nav className="header-inner flx-between">
-<div className=' inner-flex'>
+                        <div className=' inner-flex'>
                         {
                             props.logoBlack && (
                                 <div className="logo items-center">

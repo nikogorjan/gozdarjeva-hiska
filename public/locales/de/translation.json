@@ -112,11 +112,26 @@
       "title": "Lončarska Vas Filovci",
       "linkText": "Wegbeschreibung",
       "location": "Zentrum Lončarska Vas Filovci, Institut für Tourismus, Kultur und Keramikproduktion, Filovci 20, 9222 Bogojina"
+    },
+    "7": {
+      "title": "Haus Gibanice",
+      "linkText": "Wegbeschreibung",
+      "location": "Hiša Gibanice, Renkovci 8, 9224 Turnišče"
+    },
+    "8": {
+      "title": "Gaststätte bei Lujzi – Weinfontäne",
+      "linkText": "Wegbeschreibung",
+      "location": "Gostilna pri Lujzi - vinska fontana, Dobrovnik 273a, 9223 Dobrovnik"
+    },
+    "9": {
+      "title": "Anwesen Passero",
+      "linkText": "Wegbeschreibung",
+      "location": "Posestvo Passero, Tešanovci 24, 9226 Moravske Toplice"
     }
   },
   "projectFour": {
     "subtitle": "Grundstück",
-    "title": "Unser Grundstück live",
+    "title": "Unser Haus live",
     "buttonText": "Mehr anzeigen"
   },
   "contactTop": {

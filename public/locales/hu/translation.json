@@ -112,11 +112,26 @@
       "title": "Lončarska Vas Filovci",
       "linkText": "Útmutató az útvonalhoz",
       "location": "Lončarska Vas Filovci Intézet, turizmus, kultúra és kerámiagyártás intézete, Filovci 20, 9222 Bogojina"
+    },
+    "7": {
+      "title": "Gibanice háza",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Hiša Gibanice, Renkovci 8, 9224 Turnišče"
+    },
+    "8": {
+      "title": "Lujzi Vendéglő – Borkút",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Gostilna pri Lujzi - vinska fontana, Dobrovnik 273a, 9223 Dobrovnik"
+    },
+    "9": {
+      "title": "Passero birtok",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Posestvo Passero, Tešanovci 24, 9226 Moravske Toplice"
     }
   },
   "projectFour": {
     "subtitle": "Telek",
-    "title": "Élőben megtekintheti a teleket",
+    "title": "Házunk élőben",
     "buttonText": "Továbbiak megtekintése"
   },
   "contactTop": {

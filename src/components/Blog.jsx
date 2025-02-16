@@ -9,11 +9,35 @@ import blogThumb3 from '../../public/assets/images/my-images/p3.png';
 import blogThumb4 from '../../public/assets/images/my-images/p4.png'; 
 import blogThumb5 from '../../public/assets/images/my-images/p5.png'; 
 import blogThumb6 from '../../public/assets/images/my-images/p6.png'; 
+import blogThumb7 from '../../public/assets/images/my-images/p7.png'; 
+import blogThumb8 from '../../public/assets/images/my-images/p8.png'; 
+import blogThumb9 from '../../public/assets/images/my-images/p9.png'
 
 const Blog = () => {
   const { t } = useTranslation();
 
   const blogs = [
+    {
+      id: 7,
+      thumb: blogThumb7,
+      title: t("blog.7.title"),
+      linkText: t("blog.7.linkText"),
+      location: t("blog.7.location"),
+    },
+    {
+      id: 8,
+      thumb: blogThumb8,
+      title: t("blog.8.title"),
+      linkText: t("blog.8.linkText"),
+      location: t("blog.8.location"),
+    },
+    {
+      id: 9,
+      thumb: blogThumb9,
+      title: t("blog.9.title"),
+      linkText: t("blog.9.linkText"),
+      location: t("blog.9.location"),
+    },
     {
       id: 1,
       thumb: blogThumb1,
@@ -56,6 +80,7 @@ const Blog = () => {
       linkText: t("blog.6.linkText"),
       location: t("blog.6.location"),
     },
+    
   ];
 
   return (

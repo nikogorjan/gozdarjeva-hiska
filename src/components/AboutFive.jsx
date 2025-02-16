@@ -15,7 +15,7 @@ const AboutFive = () => {
                             <div className="row gy-4">
                                 <div className="col-sm-6 col-6">
                                     <div className="about-five__thumb one h-100 d-flex">
-                                        <img src="assets/images/my-images/t3000.png" alt="Image"/>
+                                        <img src="assets/images/my-images/h28.jpg" alt="Image"/>
                                     </div>
                                 </div>
                                 <div className="col-sm-6 col-6">

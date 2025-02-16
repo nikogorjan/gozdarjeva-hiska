@@ -13,7 +13,7 @@ const BannerFive = () => {
   <div className="col-lg-6 order-2 order-lg-1">
     <div className="banner-inner position-relative">
       <div className="banner-content">
-        <span className="banner-content__subtitle text-uppercase font-14">{t('vt')}</span>
+        {/*<span className="banner-content__subtitle text-uppercase font-14">{t('vt')}</span>*/}
         <h1 className="banner-content__title">{t('uz')}</h1>
         <p className="banner-content__desc font-18">{t('pu')}</p>
         <div className="banner-content__button">

@@ -112,11 +112,26 @@
       "title": "Lončarska Vas Filovci",
       "linkText": "Navodila za pot",
       "location": "Zavod Lončarska Vas Filovci, zavod za turizem, kulturo in proizvodnjo keramike, Filovci 20, 9222 Bogojina"
+    },
+    "7": {
+      "title": "Hiša gibanice",
+      "linkText": "Navodila za pot",
+      "location": "Hiša Gibanice, Renkovci 8, 9224 Turnišče"
+    },
+    "8": {
+      "title": "Gostilna pri Lujzi - vinska fontana",
+      "linkText": "Navodila za pot",
+      "location": "Gostilna pri Lujzi - vinska fontana, Dobrovnik 273a, 9223 Dobrovnik"
+    },
+    "9": {
+      "title": "Posestvo Passero",
+      "linkText": "Navodila za pot",
+      "location": "Posestvo Passero, Tešanovci 24, 9226 Moravske Toplice"
     }
   },
   "projectFour": {
     "subtitle": "Parcela",
-    "title": "Naša parcela v živo",
+    "title": "Naša hiška v živo",
     "buttonText": "Poglej več"
   },
   "contactTop": {
