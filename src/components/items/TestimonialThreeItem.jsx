@@ -7,7 +7,8 @@ const TestimonialThreeItem = ({ testimonialThreeItem }) => {
     
     return (
         <>
-            <div className="testimonial-item style-two">
+            <div className="testimonial-item style-two"         style={{ marginRight: "20px", borderRadius: "6px" }}
+            >
                 <div className="testimonial-item__top flx-between gap-2">
                     <div className="testimonial-item__info flx-align">
                         <div className="testimonial-item__thumb">

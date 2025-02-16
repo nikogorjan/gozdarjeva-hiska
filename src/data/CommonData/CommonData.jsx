@@ -10,7 +10,7 @@ export const offCanvasInfos = [
     },
     {
         icon: <i className="fas fa-phone"></i>,
-        text: ['031 328 584'],
+        text: ['(00386) 31 328 584'],
         link: ['tel:']
     },
     {

@@ -455,12 +455,12 @@ export const testimonials = [
 ]
 
 // Blog Data
-import blogThumb1 from '../../../public/assets/images/thumbs/blog1.png'; 
-import blogThumb2 from '../../../public/assets/images/thumbs/blog2.png'; 
-import blogThumb3 from '../../../public/assets/images/thumbs/blog3.png'; 
-import blogThumb4 from '../../../public/assets/images/thumbs/property-4.png'; 
-import blogThumb5 from '../../../public/assets/images/thumbs/property-5.png'; 
-import blogThumb6 from '../../../public/assets/images/thumbs/property-6.png'; 
+import blogThumb1 from '../../../public/assets/images/my-images/p1.png'; 
+import blogThumb2 from '../../../public/assets/images/my-images/p2.png'; 
+import blogThumb3 from '../../../public/assets/images/my-images/p3.png'; 
+import blogThumb4 from '../../../public/assets/images/my-images/p4.png'; 
+import blogThumb5 from '../../../public/assets/images/my-images/p5.png'; 
+import blogThumb6 from '../../../public/assets/images/my-images/p6.png'; 
 
 export const blogs = [
     {
@@ -477,7 +477,7 @@ export const blogs = [
                 text: 'Comments (30)'
             },
         ],
-        title: 'Discover Endless Possibilities in Real Estate Live Your Best Life',
+        title: 'Tropski vrt by Ocean Orchids',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },
@@ -496,7 +496,7 @@ export const blogs = [
                 text: 'Comments (50)'
             },
         ],
-        title: 'Turn Your Real Estate Dreams Into Reality Embrace the Real Estate',
+        title: 'Stolp Vinarium Lendava',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },
@@ -514,7 +514,7 @@ export const blogs = [
                 text: 'Comments (10)'
             },
         ],
-        title: 'Your Journey to Home Ownership Starts Here: The Satisfaction',
+        title: 'Otok ljubezni',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },
@@ -532,7 +532,7 @@ export const blogs = [
                 text: 'Comments (10)'
             },
         ],
-        title: 'Experience the Best in Real Estate Services',
+        title: 'Paviljon EXPANO',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },
@@ -550,7 +550,7 @@ export const blogs = [
                 text: 'Comments (10)'
             },
         ],
-        title: 'Let Us Find the Perfect Property for You: Elite Realty Services',
+        title: 'Bukovniško jezero',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },
@@ -568,7 +568,7 @@ export const blogs = [
                 text: 'Comments (10)'
             },
         ],
-        title: 'Investing in Real Estate Made Easy: The Door to Your New Home',
+        title: 'Lončarska Vas Filovci',
         desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
         linkText: 'Read More',
     },

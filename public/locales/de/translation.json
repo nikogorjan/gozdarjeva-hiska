@@ -1,0 +1,149 @@
+{
+    "welcome": "Willkommen",
+    "language": "Sprache",
+    "vt": "Weinbergsparadies",
+    "uz": "Genießen Sie den Zauber der Dobrovniker Weinberge",
+    "pu": "Lassen Sie den Alltag hinter sich und tauchen Sie ein in eine Oase der Ruhe, in der Natur, Tradition und exzellente Weine ein unvergessliches Erlebnis schaffen.",
+    "re": "Reservierung",
+    "nav": {
+        "customerReviews": "Kundenmeinungen",
+        "faq": "Häufig gestellte Fragen",
+        "contact": "Kontakt",
+        "reservation": "Reservierung"
+    },
+    "sectionHeading": {
+        "subtitle": "Bewertungen",
+        "title": "Was sagen unsere Gäste",
+        "desc": "Lesen Sie die Erfahrungen zufriedener Besucher und entdecken Sie, warum sie immer wieder in unser Haus zurückkehren.",
+        "buttonText": "Mehr anzeigen"
+    },
+    "testimonials": {
+        "branka": "Freundlicher, gastfreundlicher Gastgeber. Ruhige Umgebung, Natur, ein schöner Spaziergang durch den Wald zum Bukovnisko-See. Trotz schlechten Wetters hatten wir eine tolle Zeit – ohne Beanstandungen.",
+        "jan": "Die Lage, Ruhe, die Terrasse des Hauses, auf der Kinder unbesorgt spielen können, sowie eine Kinderschaukel. Der Blick aus dem Zimmer (Bett) nach Osten ist am Morgen fantastisch.",
+        "sonja": "Ausgezeichnete, ruhige Lage und ein guter Ausgangspunkt, um Prekmurje zu erkunden. Ein persönlich renoviertes und geräumiges Haus mit allen notwendigen Ausstattungen, ideal für Familien mit kleinen Kindern.",
+        "sandin": "Die Lage dieser Unterkunft ist einfach wunderbar – ruhig und umgeben von unberührter prekmurischer Natur.",
+        "bojan": "Sehr schöne Umgebung und ein freundlicher Besitzer, der mit einer herzlichen Begrüßung empfängt."
+    },
+    "ga": "Galerie",
+    "gi": "Fange wunderschöne, einzigartige Momente ein und entdecke die Magie.",
+    "sectionHeadingFaq": {
+        "subtitle": "Häufig gestellte Fragen",
+        "title": "Antworten auf alle Ihre Fragen zum Haus",
+        "desc": "Immobilien sind ein lukrativer Sektor, der den Kauf, Verkauf und die Vermietung von Objekten umfasst. Immobilien sind ein lukrativer Sektor.",
+        "buttonText": "Mehr anzeigen"
+    },
+    "faqs": {
+        "1": {
+            "btnText": "Wie reserviere ich das Haus?",
+            "bodyText": "Sie können die Reservierung über die Booking.com-Webanwendung vornehmen oder uns für persönliche Hilfe anrufen."
+        },
+        "2": {
+            "btnText": "Gibt es einen Parkplatz?",
+            "bodyText": "Ja, neben dem Haus steht allen unseren Gästen ein kostenloser Parkplatz zur Verfügung."
+        },
+        "3": {
+            "btnText": "Ist das Haus für Familien mit Kindern geeignet?",
+            "bodyText": "Natürlich, unser Haus ist familienfreundlich, und Kinder sind immer willkommen."
+        },
+        "4": {
+            "btnText": "Welche zusätzlichen Dienstleistungen bieten Sie an?",
+            "bodyText": "Neben einem komfortablen Aufenthalt bieten wir traditionelle prekmurische Küche und Weinverkostung an."
+        },
+        "5": {
+            "btnText": "Was ist das Besondere an den Dobrovniker Weinbergen?",
+            "bodyText": "Sie werden eine einzigartige Kombination aus natürlicher Schönheit, Tradition und hervorragenden lokalen Weinen genießen."
+        }
+    },
+    "aboutFive": {
+        "subtitle": "Entdecken Sie Prekmurje",
+        "title": "In Prekmurje erwartet Sie eine Fülle an interessanten Erlebnissen, die Sie in Bewegung halten",
+        "check1": "Erholen Sie sich und genießen Sie die Schönheit der Natur",
+        "check2": "Entspannen Sie sich nach einem aktiven Tag in unserem gemütlichen Haus",
+        "desc": "Schließen Sie sich uns an und entdecken Sie die wahre Harmonie zwischen Aktivität und Erholung im Herzen von Prekmurje.",
+        "button": "Jetzt reservieren!"
+    },
+    "marqueeSlider": {
+    "recreation": "Aktive Erholung",
+    "relaxation": "Entspannung und Erholung",
+    "culinary": "Prekmurische Küche",
+    "naturalBeauty": "Natürliche Schönheiten"
+  },
+  "aboutFour": {
+    "subtitle": "Gäste-Bewertungen",
+    "title": "Auf booking.com erhalten wir eine Bewertung von 9,9",
+    "desc": "Dank unseres einzigartigen Erlebnisses und authentischer Gastfreundschaft erhalten wir herausragende Bewertungen, die unser Engagement für Ihren perfekten Aufenthalt bestätigen.",
+    "check1": "Gastfreundschaft, die alle Erwartungen übertrifft.",
+    "check2": "Unser Haus bietet Komfort und Wärme, die Sie schon beim Betreten spüren werden.",
+    "check3": "Wir verbinden Tradition und Moderne zu einem einzigartigen Erlebnis.",
+    "ratingText": "Gästebewertung"
+  },
+  "blogSection": {
+    "subtitle": "Prekmurje",
+    "title": "Kommen Sie und entdecken Sie die Schönheiten Prekmurjes!",
+    "buttonText": "Jetzt reservieren!"
+  },
+  "blog": {
+    "1": {
+      "title": "Tropischer Garten by Ocean Orchids",
+      "linkText": "Wegbeschreibung",
+      "location": "Tropischer Garten by Ocean Orchids, Dobrovnik 115e, 9223 Dobrovnik"
+    },
+    "2": {
+      "title": "Turm Vinarium Lendava",
+      "linkText": "Wegbeschreibung",
+      "location": "Vinarium Lendava Turm, Dolgovaške Gorice 229, 9220 Lendava"
+    },
+    "3": {
+      "title": "Insel der Liebe",
+      "linkText": "Wegbeschreibung",
+      "location": "Insel der Liebe, Ižakovci 190, 9231 Beltinci"
+    },
+    "4": {
+      "title": "Pavillon EXPANO",
+      "linkText": "Wegbeschreibung",
+      "location": "Pavillon EXPANO, Bakovska Straße 41, 9000 Murska Sobota"
+    },
+    "5": {
+      "title": "Bukovniško-See",
+      "linkText": "Wegbeschreibung",
+      "location": "Bukovniško-See, 9223 Dobrovnik"
+    },
+    "6": {
+      "title": "Lončarska Vas Filovci",
+      "linkText": "Wegbeschreibung",
+      "location": "Zentrum Lončarska Vas Filovci, Institut für Tourismus, Kultur und Keramikproduktion, Filovci 20, 9222 Bogojina"
+    }
+  },
+  "projectFour": {
+    "subtitle": "Grundstück",
+    "title": "Unser Grundstück live",
+    "buttonText": "Mehr anzeigen"
+  },
+  "contactTop": {
+    "sectionSubtitle": "Kontakt",
+    "sectionTitle": "Kontaktieren Sie uns!",
+    "email": "E-Mail",
+    "location": "Standort",
+    "phone": "Telefon"
+  },
+  "footerLogoDesc": {
+    "desc": "Wir laden Sie in unser Haus ein!"
+  },
+  "footerUseful": {
+    "title": "Links",
+    "link1": "Kundenmeinungen",
+    "link2": "Häufig gestellte Fragen"
+  },
+  "footerService": {
+    "title": "Reservierung",
+    "link1": "booking.com",
+    "link2": "Kontakt"
+  },
+  "footerBottom": {
+    "text": "Gozdarjeva hiška {{year}} | Alle Rechte vorbehalten.",
+    "author": "Niko Gorjan",
+    "izdelal": "Erstellt von: "
+
+
+  }
+}

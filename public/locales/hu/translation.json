@@ -1,0 +1,148 @@
+{
+    "welcome": "Üdvözöljük",
+    "language": "Nyelv",
+    "vt": "Szőlőkert paradicsoma",
+    "uz": "Élvezze Dobrovni szőlőkerteinek varázsát",
+    "pu": "Hagyja maga mögött a mindennapokat, és merüljön el a béke oázisában, ahol a természet, a hagyomány és a kiváló borok felejthetetlen élményt teremtenek.",
+    "re": "Foglalás",
+    "nav": {
+        "customerReviews": "Ügyfélvélemények",
+        "faq": "Gyakori kérdések",
+        "contact": "Kapcsolat",
+        "reservation": "Foglalás"
+    },
+    "sectionHeading": {
+        "subtitle": "Vélemények",
+        "title": "Mit mondanak a vendégeink",
+        "desc": "Olvassa el a elégedett látogatók tapasztalatait, és fedezze fel, miért térnek vissza folyamatosan a vendégházunkba.",
+        "buttonText": "Továbbiak megtekintése"
+    },
+    "testimonials": {
+        "branka": "Barátságos, vendégszerető házigazda. Csendes környék, természet, egy erdei sétány gyönyörű séta a Bukovnisko-tóhoz. Semmiféle panasz, még a rossz idő ellenére is nagyszerűen éreztük magunkat.",
+        "jan": "Az elhelyezkedés, a nyugalom, a ház terasza, ahol a gyerekek gondtalanul játszhatnak, valamint egy hintaló a gyerekeknek. A keleti kilátás a szobából (ágyból) reggel fantasztikus.",
+        "sonja": "Kiváló, csendes elhelyezkedés és remek kiindulópont Prekmurje felfedezéséhez. Személyesen felújított és tágas házikó minden szükséges felszereléssel, ideális kisgyermekes családok számára.",
+        "sandin": "Ennek a szállásnak az elhelyezkedése egyszerűen csodálatos – nyugodt, és érintetlen Prekmurje természet veszi körül.",
+        "bojan": "Nagyon szép környezet és barátságos tulajdonos, aki kedves fogadással üdvözöl."
+    },
+    "ga": "Galéria",
+    "gi": "Örökítsétek meg a gyönyörű, egyedi pillanatokat és fedezzétek fel a varázslatot.",
+    "sectionHeadingFaq": {
+        "subtitle": "Gyakori kérdések",
+        "title": "Válaszok minden kérdésre a vendégházról",
+        "desc": "Az ingatlanpiac egy jövedelmező ágazat, amely magában foglalja az ingatlanok vásárlását, eladását és bérbeadását. Az ingatlanpiac egy jövedelmező ágazat.",
+        "buttonText": "Továbbiak megtekintése"
+    },
+    "faqs": {
+        "1": {
+            "btnText": "Hogyan foglalhatom le a házikót?",
+            "bodyText": "A foglalást megteheti a booking.com webalkalmazáson keresztül, vagy hívhat minket személyes segítségért."
+        },
+        "2": {
+            "btnText": "Van parkoló?",
+            "bodyText": "Igen, a házikó mellett ingyenes parkoló áll rendelkezésre minden vendégünk számára."
+        },
+        "3": {
+            "btnText": "Alkalmas-e a házikó gyerekes családok számára?",
+            "bodyText": "Természetesen, házikónk családbarát, és a gyerekek mindig szívesen látottak."
+        },
+        "4": {
+            "btnText": "Milyen extra szolgáltatásokat kínálnak?",
+            "bodyText": "Az kényelmes tartózkodáson kívül hagyományos prekmurskai ételeket és bor kóstolást kínálunk."
+        },
+        "5": {
+            "btnText": "Mi a Dobrovni szőlőültetvények különlegessége?",
+            "bodyText": "Élvezheti a természeti szépség, a hagyomány és a kiváló helyi borok egyedülálló kombinációját."
+        }
+    },
+    "aboutFive": {
+        "subtitle": "Fedezze fel Prekmurje-t",
+        "title": "Prekmurjében rengeteg érdekesség várja, melyek segítségével mozgásban maradhat",
+        "check1": "Pihenjen és élvezze a természet csodáit",
+        "check2": "Egy aktív nap után lazítson barátságos házikónkban",
+        "desc": "Csatlakozzon hozzánk, és fedezze fel az igazi harmóniát a tevékenység és a pihenés között Prekmurje szívében.",
+        "button": "Foglaljon most!"
+    },
+    "marqueeSlider": {
+    "recreation": "Aktív rekreáció",
+    "relaxation": "Pihenés és relaxáció",
+    "culinary": "Prekmurje-i konyha",
+    "naturalBeauty": "Természeti szépségek"
+  },
+  "aboutFour": {
+    "subtitle": "Vendégértékelések",
+    "title": "A booking.com-on 9.9-es értékelést kapunk",
+    "desc": "Az egyedülálló élménynek és hiteles vendégszeretetünknek köszönhetően kivételes értékeléseket kapunk, melyek igazolják erőfeszítéseinket az Ön tökéletes pihenéséért.",
+    "check1": "Vendégszeretet, amely túlszárnyalja az összes elvárást.",
+    "check2": "Házunk kényelmet és meleget kínál, amit már a belépésnél érezni fog.",
+    "check3": "A hagyományt és a modernséget egyedi pihenéssé ötvözzük.",
+    "ratingText": "Vendégértékelés"
+  },
+  "blogSection": {
+    "subtitle": "Prekmurje",
+    "title": "Jöjjön és fedezze fel Prekmurje szépségeit!",
+    "buttonText": "Foglaljon most!"
+  },
+  "blog": {
+    "1": {
+      "title": "Trópusi kert by Ocean Orchids",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Trópusi kert by Ocean Orchids, Dobrovnik 115e, 9223 Dobrovnik"
+    },
+    "2": {
+      "title": "Lendavai torony Vinarium",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Vinarium torony Lendava, Dolgovaške Gorice 229, 9220 Lendava"
+    },
+    "3": {
+      "title": "A szerelem szigete",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "A szerelem szigete, Ižakovci 190, 9231 Beltinci"
+    },
+    "4": {
+      "title": "EXPANO Pavilon",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "EXPANO Pavilon, Bakovska utca 41, 9000 Murska Sobota"
+    },
+    "5": {
+      "title": "Bukovniško-tó",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Bukovniško-tó, 9223 Dobrovnik"
+    },
+    "6": {
+      "title": "Lončarska Vas Filovci",
+      "linkText": "Útmutató az útvonalhoz",
+      "location": "Lončarska Vas Filovci Intézet, turizmus, kultúra és kerámiagyártás intézete, Filovci 20, 9222 Bogojina"
+    }
+  },
+  "projectFour": {
+    "subtitle": "Telek",
+    "title": "Élőben megtekintheti a teleket",
+    "buttonText": "Továbbiak megtekintése"
+  },
+  "contactTop": {
+    "sectionSubtitle": "Kapcsolat",
+    "sectionTitle": "Vegye fel velünk a kapcsolatot!",
+    "email": "E-mail",
+    "location": "Elhelyezkedés",
+    "phone": "Telefon"
+  },
+  "footerLogoDesc": {
+    "desc": "Meghívjuk Önt a házikónkba!"
+  },
+  "footerUseful": {
+    "title": "Linkek",
+    "link1": "Vásárlói vélemények",
+    "link2": "Gyakori kérdések"
+  },
+  "footerService": {
+    "title": "Foglalás",
+    "link1": "booking.com",
+    "link2": "Kapcsolat"
+  },
+  "footerBottom": {
+    "text": "Gozdarjeva hiška {{year}} | Minden jog fenntartva.",
+    "author": "Niko Gorjan",
+    "izdelal": "Készítette: "
+
+  }
+}

@@ -7,6 +7,7 @@ import MobileMenuProvider from './contextApi/MobileMenuContext.jsx'
 import OffCanvasProvider from './contextApi/OffCanvasContext.jsx'
 import ScrollHideProvider from './contextApi/ScrollHideContext.jsx'
 import PropertyFilterProvider from './contextApi/PropertyFilterContext.jsx'
+import './i18n'; // initialize i18next
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <PropertyFilterProvider>

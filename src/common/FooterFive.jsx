@@ -7,8 +7,11 @@ import FooterUsefulItem from './footer/FooterUsefulItem';
 import { footerGallery } from '../data/CommonData/CommonData';
 import FooterBottom from './FooterBottom';
 import NewsletterFooter from '../components/NewsletterFooter';
+import { useTranslation } from 'react-i18next';
 
 const FooterFive = () => {
+        const { t } = useTranslation();
+    
     return (
         <>
             <footer className="footer padding-y-120">
@@ -33,7 +36,7 @@ const FooterFive = () => {
                         </div>
                         <div className="col-xl-3 col-sm-6 col-xsm-6">
                             <div className="footer-item">
-                                <h6 className="footer-item__title">Galerija</h6>
+                                <h6 className="footer-item__title">{t('ga')}</h6>
                                 <div className="gallery-list">
                                     {
                                         footerGallery.map((gallery, GalleryIndex) => {

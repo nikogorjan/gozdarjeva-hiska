@@ -1,0 +1,148 @@
+{
+    "welcome": "Dobrodošli",
+    "language": "Jezik",
+    "vt": "Vinogradski raj",
+    "uz": "Uživajte v čarobnosti Dobrovniških vinogradov",
+    "pu": "Pustite vsakdan za seboj in se potopite v oazo miru, kjer narava, tradicija in izvrstna vina ustvarjajo nepozabno doživetje.",
+    "re": "Rezervacija",
+    "nav": {
+        "customerReviews": "Mnenja strank",
+        "faq": "Pogosta vprašanja",
+        "contact": "Kontakt",
+        "reservation": "Rezervacija"
+    },
+    "sectionHeading": {
+        "subtitle": "Mnenja",
+        "title": "Kaj pravijo naši gostje",
+        "desc": "Preberite izkušnje zadovoljnih obiskovalcev in odkrijte, zakaj se vedno znova vračajo v našo hiško.",
+        "buttonText": "View More"
+    },
+    "testimonials": {
+        "branka": "Prijazna, gostoljubna gostitelja. Mirna okolica, narava, skozi gozd lep sprehod do Bukovniskega jezera. Nobene pripombe, kljub slabemu vremenu, smo se imeli super.",
+        "jan": "Lokacija, mir, terasa za hišo, kjer lahko otroci tečejo brez skrbi, gugalnica za otroke. Pogled iz sobe (postelje) proti vzhodu je zjutraj fantastičen.",
+        "sonja": "Odlična, mirna lokacija in dobro izhodišče za odkrivanje Prekmurja. Lično prenovljena in prostorna hiška z vso potrebno opremo, idealna za družine z majhnimi otroki.",
+        "sandin": "Lokacija te nastanitve je preprosto čudovita – mirna in obdana z neokrnjeno prekmursko naravo.",
+        "bojan": "Zelo lepa okolica in prijazen lastnik z lepo dobrodošlico."
+    },
+    "ga": "Galerija",
+    "gi": "Ujemite čudovite edinstvene trenutke in odkrijte čarobnost.",
+    "sectionHeadingFaq": {
+        "subtitle": "Pogosta vprašanja",
+        "title": "Odgovori na vsa vaša vprašanja o hiški",
+        "desc": "Nepremičnine so dobičkonosna panoga, ki vključuje nakup, prodajo in oddajo nepremičnin. Nepremičnine so dobičkonosna panoga.",
+        "buttonText": "Poglej več"
+    },
+    "faqs": {
+        "1": {
+            "btnText": "Kako rezerviram hiško?",
+            "bodyText": "Rezervacijo lahko opravite preko booking.com spletne aplikacije ali pa nas pokličete za osebno pomoč."
+        },
+        "2": {
+            "btnText": "Ali je na voljo parkirišče?",
+            "bodyText": "Da, ob hiški je na voljo brezplačno parkirišče za vse naše goste."
+        },
+        "3": {
+            "btnText": "Ali je hiška primerna za družine z otroki?",
+            "bodyText": "Seveda, naša hiška je prijazna do družin, kjer so otroci vedno dobrodošli."
+        },
+        "4": {
+            "btnText": "Kakšne dodatne storitve nudite?",
+            "bodyText": "Poleg udobnega bivanja nudimo tradicionalno prekmursko hrano in degustacijo vina."
+        },
+        "5": {
+            "btnText": "Kaj je posebnost Dobrovniških vinogradov?",
+            "bodyText": "Uživali boste v edinstveni kombinaciji naravne lepote, tradicije in izvrstnih lokalnih vin."
+        }
+    },
+    "aboutFive": {
+    "subtitle": "Odkrijte Prekmurje",
+    "title": "V Prekmurju vas čaka ogromno zanimivosti, s katerimi se lahko razgibate",
+    "check1": "Rekreirajte se in uživajte v naravnih lepotah",
+    "check2": "Po aktivnem dnevu se sprostite v naši prijetni hišici",
+    "desc": "Pridružite se nam in odkrijte pravo harmonijo med aktivnostjo in počitkom v srcu Prekmurja.",
+    "button": "Rezerviraj zdaj!"
+  },
+  "marqueeSlider": {
+    "recreation": "Aktivna rekreacija",
+    "relaxation": "Sprostitev in počitek",
+    "culinary": "Prekmurska kulinarika",
+    "naturalBeauty": "Naravne lepote"
+  },
+  "aboutFour": {
+    "subtitle": "Ocene gostov",
+    "title": "Na booking.com nas ocenjujejo z oceno 9.9",
+    "desc": "Zahvaljujoč edinstveni izkušnji in pristni gostoljubnosti smo prejemniki izjemnih ocen, ki potrjujejo naš trud za vaš popoln oddih.",
+    "check1": "Gostoljubnost, ki presega vsa pričakovanja.",
+    "check2": "Naša hišica nudi udobje in toplino, ki jo boste občutili že ob vstopu.",
+    "check3": "Združujemo tradicijo in sodobnost za edinstven oddih.",
+    "ratingText": "Ocena gostov"
+  },
+  "blogSection": {
+    "subtitle": "Prekmurje",
+    "title": "Pridite in raziščite lepote Prekmurja!",
+    "buttonText": "Rezerviraj zdaj!"
+  },
+  "blog": {
+    "1": {
+      "title": "Tropski vrt by Ocean Orchids",
+      "linkText": "Navodila za pot",
+      "location": "Tropski vrt by Ocean Orchids TRÓPUSI KERT Ocean Orchids, Dobrovnik 115e, 9223 Dobrovnik"
+    },
+    "2": {
+      "title": "Stolp Vinarium Lendava",
+      "linkText": "Navodila za pot",
+      "location": "Stolp Vinarium Lendava, Dolgovaške Gorice 229, 9220 Lendava"
+    },
+    "3": {
+      "title": "Otok ljubezni",
+      "linkText": "Navodila za pot",
+      "location": "Otok ljubezni, Ižakovci 190, 9231 Beltinci"
+    },
+    "4": {
+      "title": "Paviljon EXPANO",
+      "linkText": "Navodila za pot",
+      "location": "Paviljon EXPANO, Bakovska ulica 41, 9000 Murska Sobota"
+    },
+    "5": {
+      "title": "Bukovniško jezero",
+      "linkText": "Navodila za pot",
+      "location": "Bukovniško jezero, 9223 Dobrovnik"
+    },
+    "6": {
+      "title": "Lončarska Vas Filovci",
+      "linkText": "Navodila za pot",
+      "location": "Zavod Lončarska Vas Filovci, zavod za turizem, kulturo in proizvodnjo keramike, Filovci 20, 9222 Bogojina"
+    }
+  },
+  "projectFour": {
+    "subtitle": "Parcela",
+    "title": "Naša parcela v živo",
+    "buttonText": "Poglej več"
+  },
+  "contactTop": {
+    "sectionSubtitle": "Kontakt",
+    "sectionTitle": "Kontaktirajte nas!",
+    "email": "Email",
+    "location": "Lokacija",
+    "phone": "Telefon"
+  },
+  "footerLogoDesc": {
+    "desc": "Vabimo vas v našo hišico!"
+  },
+  "footerUseful": {
+    "title": "Povezave",
+    "link1": "Mnenja strank",
+    "link2": "Pogosta vprašanja"
+  },
+  "footerService": {
+    "title": "Rezervacija",
+    "link1": "booking.com",
+    "link2": "Kontakt"
+  },
+  "footerBottom": {
+    "text": "Gozdarjeva hiška {{year}} | Vse pravice pridržane.",
+    "author": "Niko Gorjan",
+    "izdelal": "Izdelal: "
+
+  }
+}

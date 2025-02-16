@@ -187,18 +187,18 @@ export const counterThreeContents = [
 export const faqs = [
     {
         id: 1,
-        btnText: 'Kako rezerviram vikendico?',
+        btnText: 'Kako rezerviram hiško?',
         bodyText: 'Rezervacijo lahko opravite preko booking.com spletne aplikacije ali pa nas pokličete za osebno pomoč.'
     },
     {
         id: 2,
         btnText: 'Ali je na voljo parkirišče?',
-        bodyText: 'Da, ob vikendici je na voljo brezplačno parkirišče za vse naše goste.'
+        bodyText: 'Da, ob hiški je na voljo brezplačno parkirišče za vse naše goste.'
     },
     {
         id: 3,
-        btnText: 'Ali je vikendica primerna za družine z otroki?',
-        bodyText: 'Seveda, naša vikendica je prijazna do družin, kjer so otroci vedno dobrodošli.'
+        btnText: 'Ali je hiška primerna za družine z otroki?',
+        bodyText: 'Seveda, naša hiška je prijazna do družin, kjer so otroci vedno dobrodošli.'
     },
     {
         id: 4,

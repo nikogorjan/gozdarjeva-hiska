@@ -26,12 +26,7 @@ const ScrollToTop = () => {
     
     return (
         <>
-            <div className="scrollToTop"  
-                onClick={() => setPosition({...position, position: {top: 0, left: 0}})}
-                ref={scrollTop} 
-            >
-                <i className="fas fa-chevron-up text-gradient"></i>
-            </div>
+            
             
         </>
     );

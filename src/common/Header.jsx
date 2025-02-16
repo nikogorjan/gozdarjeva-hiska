@@ -8,6 +8,7 @@ import Button from './Button';
 import { Link } from 'react-router-dom';
 import LogoWhite from './LogoWhite';
 import '../../public/assets/css/header.css'
+
 const Header = (props) => {
         
     const { handleMobileMenuClick } = useContext(MobileMenuContext); 
@@ -60,7 +61,7 @@ const Header = (props) => {
                                 props.showContactNumber && (
                                     <Link to="tel:031328584" className="contact-number text-poppins text-gray-800 fw-500 d-flex align-items-center gap-2">
                                         <span className="icon text-gradient font-20"><i className="fas fa-phone"></i></span>
-                                        <span className="text">031 328 584</span>
+                                        <span className="text">(00386) 31 328 584</span>
                                     </Link>
                                 )
                             }

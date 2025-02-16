@@ -12,7 +12,7 @@ const TopHeaderFive = () => {
                         </div>
                         <div className="header-info__item text-white flx-align">
                             <span className="header-info__icon"><i className="fas fa-envelope"></i></span>
-                            <a href="mailto:" className="header-info__text text-white fw-light">Gozdarjeva.hisa@gmail.com</a>
+                            <a href="mailto:" className="header-info__text text-white fw-light">gozdarjeva.hisa@gmail.com</a>
                         </div>
                     </div>
                     <ul className="social-icon-list flx-align gap-2">

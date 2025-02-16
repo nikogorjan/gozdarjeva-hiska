@@ -1,12 +1,15 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 const GalleryFive = () => {
+        const { t } = useTranslation();
+
     return (
         <section className="gallery-section padding-y-120 bg-white">
             <div className="container container-two">
                 <div className="section-heading">
-                    <span className="section-heading__subtitle bg-transparent"> <span className="text-gradient fw-semibold">Galerija</span> </span>
-                    <h2 className="section-heading__title">Ujemite čudovite edinstvene trenutke in odkrijte čarobnost.</h2>
+                    <span className="section-heading__subtitle bg-transparent"> <span className="text-gradient fw-semibold">{t('ga')}</span> </span>
+                    <h2 className="section-heading__title">{t('gi')}</h2>
                 </div>
                 
                 <div className="row gy-4">

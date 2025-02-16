@@ -1,10 +1,43 @@
 import React, { useState } from 'react';
 import FaqItem from '../components/items/FaqItem';
-import { faqs } from '../data/HomeThreeData/HomeThreeData';
+import { useTranslation } from 'react-i18next';
+
+
+
 
 const FaqAccordion = (props) => {
+    const { t } = useTranslation();
+    const [activeAccordion, setActiveAccordion] = useState(null);
+    
+    // Build FAQs array using translation keys
+    const faqs = [
+        {
+            id: 1,
+            btnText: t('faqs.1.btnText'),
+            bodyText: t('faqs.1.bodyText')
+        },
+        {
+            id: 2,
+            btnText: t('faqs.2.btnText'),
+            bodyText: t('faqs.2.bodyText')
+        },
+        {
+            id: 3,
+            btnText: t('faqs.3.btnText'),
+            bodyText: t('faqs.3.bodyText')
+        },
+        {
+            id: 4,
+            btnText: t('faqs.4.btnText'),
+            bodyText: t('faqs.4.bodyText')
+        },
+        {
+            id: 5,
+            btnText: t('faqs.5.btnText'),
+            bodyText: t('faqs.5.bodyText')
+        }
+    ];
 
-    const [activeAccordion, setActiveAccordion] = useState(null); 
     
     const handleAccordionClick = (faqId) => {
         setActiveAccordion(activeAccordion === faqId ? null : faqId); 
