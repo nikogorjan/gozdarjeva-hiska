@@ -13,7 +13,6 @@ const FooterBottom = (props) => {
                         <p className="bottom-footer__text">
                              {t("footerBottom.text", { year: new Date().getFullYear() })}
                         </p>
-                        <BottomFooterLinks/>
                         <a className='izdelal' href="https://www.nikogorjan.com/">
   <span className='white'>{t("footerBottom.izdelal")}</span>{' '}{t("footerBottom.author")}
 </a>                        </div>
